@@ -1,0 +1,199 @@
+
+body {
+	font-size: 1em;
+	font-family: "trebuchet MS", Helvetica, sans-serif;
+
+
+}
+
+#navegaçao {
+background-color: #f7b600;
+text-align: center;
+padding-top: 1px;
+padding-bottom: 1px;
+
+}
+
+#navegaçao  ul li {
+	display: inline;
+
+}
+
+#navegaçao  a {
+	text-decoration: none;
+	
+	padding: 15px;
+
+}
+
+#navegaçao h1 {
+	font-size: 2.0em;
+
+
+}
+.branco {
+	color: white;
+}
+
+
+a:link, a:visited {
+	color:  #FFF;
+	
+}
+
+a:hover {
+	color: #f7b600;
+	background: #FFF;
+}
+
+
+#parte1  {
+	background-color: white;  
+	/* pode se usar ‘border: 1px solid gray; ‘ para ajudar a  definir espaçamentos */
+	width: 660px;
+	float: left;
+	margin-left: 280px;
+	margin-top: 12px;
+
+}
+
+#parte1 h1 {
+	color: #f7b600;
+
+}
+
+#parte1 a {
+	color: #f7b600 ;
+}
+
+#parte1 p {
+	font-size: 0.8em;
+	margin-bottom: 5px;
+}
+
+#lateral {
+	
+	float: right;
+	width: 220px;
+	margin-right: 380px;
+	background-color: white;
+	padding: 4px;
+	margin-top: 12px;
+	font-size: 0.9em;
+	
+}
+
+#lateral h3 {
+	background-color: #D3D3D3;
+	padding-top: 5px;
+	padding-left: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+} 
+
+#lateral a {
+	color: #f7b600 ;
+	text-decoration: none;
+}
+
+#clear {
+	clear: right;
+}
+
+#lateral2 {
+
+float: right;
+width: 220px;
+margin-top: 25px;
+margin-right: 380px;
+padding: 4px;
+background-color: white;
+	
+
+}
+
+#lateral2 h3 {
+	 background-color: #D3D3D3;
+	padding-top: 5px;
+	padding-left: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+
+}
+
+#lateral2 ul li {
+	color:  #f7b600;
+	list-style-type: none;
+	
+}
+
+
+#clear2 {
+
+	clear: left;
+}
+
+#parte2 {
+
+	width: 660px;
+	float: left;
+	margin-left: 280px;
+	margin-top: 20px;
+	background-color: white;
+
+}
+
+#parte2 h1 {
+	color:  #f7b600;
+}
+
+#parte2 a {
+	color:  #f7b600;
+
+}
+
+#parte2 p {
+	font-size: 0.8em;
+	
+}
+
+#lidas{
+	
+	float: right;
+	width: 220px;
+	margin-right: 380px;
+	background-color: white;
+	padding: 4px;
+	margin-top: 20px;
+	font-size: 0.9em;
+	
+	}
+
+#lidas h3 {
+	background-color: #D3D3D3;
+	padding-top: 5px;
+	padding-left: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+#lidas a {
+	color: #f7b600 ;
+	text-decoration: none;
+
+
+}
+
+#lidas img {
+	width: 220px;
+}
+
+#numeracao {
+	color: #f7b600 ;
+	padding-left: 8px;
+}
+
+
+
+
+
